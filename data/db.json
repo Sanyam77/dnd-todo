@@ -1,0 +1,67 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "name": "ToDo",
+      "items": [
+        {
+          "id": 1,
+          "title": "Todo task 1",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 2,
+          "title": "Todo task 2",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 3,
+          "title": "Todo task 3",
+          "content": "This is a task which you have to do"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Doing",
+      "items": [
+        {
+          "id": 4,
+          "title": "Doing task 1",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 5,
+          "title": "Doing task 2",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 6,
+          "title": "Doing task 3",
+          "content": "This is a task which you have to do"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Done",
+      "items": [
+        {
+          "id": 7,
+          "title": "Done task 1",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 8,
+          "title": "Done task 2",
+          "content": "This is a task which you have to do"
+        },
+        {
+          "id": 9,
+          "title": "Done task 3",
+          "content": "This is a task which you have to do"
+        }
+      ]
+    }
+  ]
+}
